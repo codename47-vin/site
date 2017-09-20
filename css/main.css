@@ -3,4 +3,36 @@
     color: #505050;
     font-family: 'Lora', serif;
     text-decoration: none;
+    /* margin: 0; */
+    /* padding: 0; */
 }
+
+h1, h2, h3, h4, h5, h6 {
+    color: #303030;
+}
+
+.nav_btn {
+    /* display: inline-block; */
+    height: 30px;
+    line-height: 30px;
+    width: 120px;
+    margin: 5px;
+    border: 1px solid #000000;
+    padding-left: 5px;
+    border-radius: 3px;
+    background: #A3FFA3;
+    /* color: #6bff6b; */
+}
+
+.nav_btn * {
+    background-color: #A3FFA3;
+}
+
+.nav_ico {
+    display: inline-block;
+    width: 20px;
+}
+
+/* i {
+    size: 20px, 50px;
+} */
